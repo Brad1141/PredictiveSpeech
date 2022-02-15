@@ -1,0 +1,5 @@
+Stuff to do
+    - run python script in windows app
+    - create casual speech dataset
+    - fine-tune gpt2 on personal dataset
+    - how was gpt-2 trained?
